@@ -1,0 +1,11 @@
+--2022-03-30 16:34:48--  https://creativecommons.org/licenses/by/4.0/legalcode.txt
+Распознаётся creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16, 172.67.34.140, ...
+Подключение к creativecommons.org (creativecommons.org)|104.20.151.16|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа... 200 OK
+Длина: нет данных [text/plain]
+Сохранение в: «legalcode.txt»
+
+     0K .......... ........                                    4,69M=0,004s
+
+2022-03-30 16:34:48 (4,69 MB/s) - «legalcode.txt» сохранён [18657]
+
